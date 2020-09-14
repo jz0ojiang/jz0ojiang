@@ -20,16 +20,10 @@ Here are some ideas to get you started:
     <el-dialog :visible.sync="visible" title="Hello world">
       <p>Try Element</p>
     </el-dialog>
-  </div>
-
-<!-- 引入样式 -->
-<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
-<!-- 引入组件库 -->
-<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+</div>
 
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
-  <!-- import JavaScript -->
-  <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+<script src="https://unpkg.com/element-ui/lib/index.js"></script>
   <script>
     new Vue({
       el: '#app',
@@ -37,5 +31,5 @@ Here are some ideas to get you started:
         return { visible: false }
       }
     })
-  </script>
+</script>
 
