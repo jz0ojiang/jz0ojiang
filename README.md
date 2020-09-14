@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Jz0ojiang (My profile site: https://im0o.top)
+
+#### 我这辈子都咕了哪些：
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ojixueseno0&layout=compact)](#)
+
+#### 我这辈子都咕了些啥：
 
 [![0ojixueseno0's github stats](https://github-readme-stats.vercel.app/api?username=0ojixueseno0&hide=contribs,prs)](https://im0o.top)
 <!--
