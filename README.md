@@ -1,6 +1,7 @@
 ### Hi there 👋
-[![0ojixueseno0's github stats](https://github-readme-stats.vercel.app/api?username=0ojixueseno0&hide=contribs,prs)](https://im0o.top)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ojixueseno0&layout=compact)](#)
+
+[![0ojixueseno0's github stats](https://github-readme-stats.vercel.app/api?username=0ojixueseno0&hide=contribs,prs)](https://im0o.top)
 <!--
 **0ojixueseno0/0ojixueseno0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
