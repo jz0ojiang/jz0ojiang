@@ -2,11 +2,11 @@
 
 ### 我这辈子都咕了些啥：
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ojixueseno0&layout=compact&theme=vue-dark&)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ojixueseno0&layout=compact)](#)
 
 ### 我这辈子都咕了哪些：
 
-[![0ojixueseno0's github stats](https://github-readme-stats.vercel.app/api?username=0ojixueseno0&hide=contribs,prs&theme=vue-dark&)](https://im0o.top)
+[![0ojixueseno0's github stats](https://github-readme-stats.vercel.app/api?username=0ojixueseno0&hide=contribs,prs)](https://im0o.top)
 <!--
 **0ojixueseno0/0ojixueseno0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
