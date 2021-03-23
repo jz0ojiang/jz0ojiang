@@ -2,7 +2,7 @@
 
 ### 我这辈子都咕了些啥：
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ojixueseno0&layout=compact#)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ojixueseno0&layout=compact1)](#)
 
 ### 我这辈子都咕了哪些：
 
