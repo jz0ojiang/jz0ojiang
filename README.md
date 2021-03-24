@@ -2,7 +2,7 @@
 
 ### 我这辈子都咕了些啥：
 
-[![Top Langs](https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&hide=html,css)](#)
+[![Top Langs](https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&hide=html,css&layout=compact)](#)
 
 ### 我这辈子都咕了哪些：
 
