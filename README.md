@@ -1,9 +1,9 @@
 <div style="height:100px;">
   <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/codingcat.gif" width="88px" style="float:left" />
   <span align="right">
-    <font size="6px" style="float:right">
-        <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/shakinghand.gif" alt="shaking hand" width="50px"/>Hi, I'm Jz0ojiang
-    </font>
+        <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/shakinghand.gif" alt="shaking hand" width="50px"/>
+        
+        # Hi, I'm Jz0ojiang
   </span>
 </div>
 
