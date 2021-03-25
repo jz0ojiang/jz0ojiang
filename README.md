@@ -1,12 +1,8 @@
 <div style="height:100px;">
-    <div style="float:left;display: inline">
-        <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/codingcat.gif" width="88px" />
-    </div>
-    <div style="float:right;display: inline">
-        <h1>
-            <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/shakinghand.gif" alt="shaking hand" width="50px"/>Hi, I'm Jz0ojiang
-        </h1>
-    </div>
+  <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/codingcat.gif" width="88px" style="float:left" />
+  <h1 style="float:right">
+      <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/shakinghand.gif" alt="shaking hand" width="50px"/>Hi, I'm Jz0ojiang
+  </h1>
 </div>
 
 ---
