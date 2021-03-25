@@ -1,12 +1,12 @@
 <div style="height:100px;">
-  <div align="left" style="display: inline">
+  <span align="left" style="display: inline">
     <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/codingcat.gif" width="88px" style="float:left" />
-  </div>
-  <div align="right" style="display: inline">
+  </span>
+  <span align="right" style="display: inline">
     <h1 style="float:right">
         <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/shakinghand.gif" alt="shaking hand" width="50px"/>Hi, I'm Jz0ojiang
     </h1>
-  </div>
+  </span>
 </div>
 
 ---
