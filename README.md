@@ -1,18 +1,22 @@
 <div style="height:100px;">
-  <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/codingcat.gif" width="88px" style="float:left" />
-  <h1 style="float:right">
-      <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/shakinghand.gif" alt="shaking hand" width="50px"/>Hi, I'm Jz0ojiang
-  </h1>
+  <div align="left">
+    <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/codingcat.gif" width="88px" style="float:left" />
+  </div>
+  <div align="right">
+    <h1 style="float:right">
+        <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/shakinghand.gif" alt="shaking hand" width="50px"/>Hi, I'm Jz0ojiang
+    </h1>
+  </div>
 </div>
 
 ---
 
 <div style="height:140px">
-    <div style="float:left; width:42%">
+    <div align="left" style="float:left; width:42%; display:inline-block">
         <img src="https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&langs_count=8&hide=html,css,javascript&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
         <br />𝓦𝓱𝓪𝓽 𝓭𝓲𝓭 𝓘 𝓭𝓸 𝓲𝓷 𝓶𝔂 𝓵𝓲𝓯𝓮
     </div>
-    <div style="float:right; width:58%">
+    <div align="right" style="float:right; width:58%; display:inline-block">
         <img src="https://readmestats-0ojixueseno0.vercel.app/api?username=0ojixueseno0&hide=contribs&layout=compact&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&icon_color=fff&show_icons=true" />
         <br />𝓦𝓱𝓪𝓽 𝓱𝓪𝓿𝓮 𝓘 𝓭𝓸𝓷𝓮 𝓲𝓷 𝓶𝔂 𝓵𝓲𝓯𝓮
     </div>
