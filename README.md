@@ -1,8 +1,6 @@
 <div style="height:100px;">
-  <span align="left" style="display: inline">
-    <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/codingcat.gif" width="88px" style="float:left" />
-  </span>
-  <span align="right" style="display: inline">
+  <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/codingcat.gif" width="88px" style="float:left" />
+  <span align="right">
     <h1 style="float:right">
         <img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/shakinghand.gif" alt="shaking hand" width="50px"/>Hi, I'm Jz0ojiang
     </h1>
