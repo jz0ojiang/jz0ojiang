@@ -11,7 +11,7 @@
 <div height="210px">
   <table><tr>
     <td width="42%">
-    <!-- <div align="left" style="float:left; width:42%; display:inline-block"> -->
+    <!-- <div align="left" style="float:left; width:42%; display:inline-block"># -->
         <img src="https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&langs_count=8&hide=html,css,javascript&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
         <br />𝓦𝓱𝓪𝓽 𝓭𝓲𝓭 𝓘 𝓭𝓸 𝓲𝓷 𝓶𝔂 𝓵𝓲𝓯𝓮
     <!-- </div> -->
