@@ -1,9 +1,11 @@
 <div style="height:100px;">
 <table><tr>
   <td width="80%"><img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/codingcat.gif" width="88px" /></td>
-  <td><div align="right">
+  <td width="20%">
+  <!-- <div align="right"> -->
     <hi><img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/shakinghand.gif" alt="shaking hand" width="70px"/>𝓗𝓮𝓵𝓵𝓸, 𝓘'𝓶 𝓙𝔃𝟎𝓸𝓳𝓲𝓪𝓷𝓰</hi>
-  </div></td>
+  <!-- </div> -->
+  </td>
 </div></tr></table>
 
 ---
