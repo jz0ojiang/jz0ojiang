@@ -53,7 +53,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Ruby     13 mins         ███████████████████████▓░   94.86 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
