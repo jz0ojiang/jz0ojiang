@@ -53,7 +53,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML     25 mins         ████████████████████████░   95.98 % 
+
 ```
 <!--END_SECTION:waka-->
 
