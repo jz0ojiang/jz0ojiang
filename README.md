@@ -57,5 +57,5 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=github-com-0ojixueseno0" style="display:inline-block"/>
 
 ## 📚 𝓐𝓽𝓵𝓪𝓼𝓽
-<img src="./avatar.jpg" style="display: inline-block; zoom: 33%;" />
-<img src="./codingcat.gif" style="display:inline-block; zoom: 39%;"/>
+<img src="./avatar.jpg" width="100px" />
+<img src="./codingcat.gif" width="100px" />
