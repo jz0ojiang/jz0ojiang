@@ -20,11 +20,11 @@
     </table>
 </div>
 
-<div style="display:inline-block">
-    <a href="https://twitter.com/@0ojixueseno0"><img src="https://img.shields.io/badge/-@0ojixueseno0-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" /></a>
+<div align="center">
+    <a href="https://twitter.com/@jz0ojiang"><img src="https://img.shields.io/badge/-@Jz0ojiang-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" /></a>
     <a href="https://github.com/0ojixueseno0"><img src="https://img.shields.io/badge/-@0ojixueseno0-%23181717?style=flat-square&logo=github" /></a>
-    <a href="https://t.me/jz0ojiang"><img src="https://img.shields.io/badge/-@0ojixueseno0-%23181717?style=flat-square&logo=telegram" /></a>
-    <a href="mailto:jz0ojiang@qq.com"><img src="https://img.shields.io/badge/EmailTo-jz0ojiang@qq.com-%23181717?style=flat-square&logo=mail.ru" /></a>
+    <a href="https://t.me/jz0ojiang"><img src="https://img.shields.io/badge/-@jz0ojiang-%23181717?style=flat-square&logo=telegram" /></a>
+    <a href="mailto:hi@im0o.top"><img src="https://img.shields.io/badge/EmailTo-hi@im0o.top-%23181717?style=flat-square&logo=mail.ru" /></a>
     <a href="https://im0o.top"><img src="https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=im0o.top&url=https%3A%2F%2Fim0o.top" /></a>
 </div>
 

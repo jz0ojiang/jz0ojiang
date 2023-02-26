@@ -1,10 +1,10 @@
-<h3 align="center">
+<h2 align="center">
     <a href="#">
         <img src="./avatar.svg" width="220" />
         <br/>
     </a>
     Hello I'm 0o酱
-</h3>
+</h2>
 
 <p align="center">
     <a href="https://blog.im0o.top/">
@@ -12,7 +12,25 @@
     </a>
 </p>
 
+<br />
 <div align="center">
+    <h2>Views</h2>
+    <img src="https://visitor-badge.deta.dev/badge?page_id=github-com-0ojixueseno0" />
+</div>
+
+<br />
+<div align="center">
+    <h2>Contact Information</h2>
+    <a href="https://github.com/0ojixueseno0"><img src="https://img.shields.io/badge/-@0ojixueseno0-%23181717?style=flat-square&logo=github" /></a>
+    <a href="https://t.me/jz0ojiang"><img src="https://img.shields.io/badge/-@jz0ojiang-%23181717?style=flat-square&logo=telegram" /></a>
+    <a href="https://twitter.com/@jz0ojiang"><img src="https://img.shields.io/badge/-@Jz0ojiang-%23181717?style=flat-square&logo=twitter" /></a>
+    <a href="mailto:hi@im0o.top"><img src="https://img.shields.io/badge/hi@im0o.top-%23181717?style=flat-square&logo=mail.ru" /></a>
+    <a href="https://im0o.top"><img src="https://img.shields.io/website?color=181717&label=Site&style=flat-square&up_message=im0o.top&url=https%3A%2F%2Fim0o.top" /></a>
+</div>
+
+<br />
+<div align="center">
+<h2>Github Readme Stats</h2>
 <a href="#">
 <picture>
     <source 
@@ -63,15 +81,24 @@
 </a>
 </div>
 
-<details>
-<summary>test</summary>
+<br />
+<div align="center">
+    <h2>Skills</h2>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" />
+    <br />
+    <img src="https://img.shields.io/badge/Go-478CBF?style=for-the-badge&logo=Go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" />
+    <img src="https://img.shields.io/badge/Nim-FF4500?style=for-the-badge&logo=nim&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=0ojixueseno0&theme=github-dark&custom_title=My%20Activity%20Graph&hide_border=true&bg_color=0D1117)
-
-![](https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&langs_count=8&hide=html,css,javascript&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&count_private=true&hide_border=true)
-
-![](https://readmestats-0ojixueseno0.vercel.app/api?username=0ojixueseno0&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide_border=true)
-
-![](https://readmestats-0ojixueseno0.vercel.app/api/wakatime?username=@jz0ojiang&langs_count=8&hide=html,css,javascript&bg_color=0D1117&title_color=2C82FF&text_color=FEFFF8&icon_color=fff&count_private=true&hide_border=true)
-
-</details>
+<br />
+<div align="center">
+<h2>Recent Blog Posts</h2>
+WIP
+</div>
