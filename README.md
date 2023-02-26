@@ -25,13 +25,8 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=0ojixueseno0&theme=github-light" align="center" height="150em" />
 </picture>
 <picture>
-    <source 
-    srcset="https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&langs_count=8&hide=html,css,javascript&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&count_private=true&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-    />
-    <source
-    srcset="https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&langs_count=8&hide=html,css,javascript&layout=compact&count_private=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    <source srcset="https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&langs_count=8&hide=html,css,javascript&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&count_private=true&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&langs_count=8&hide=html,css,javascript&layout=compact&count_private=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&langs_count=8&hide=html,css,javascript&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&count_private=true&hide_border=true" align="center" height="150em" />
 </picture>
