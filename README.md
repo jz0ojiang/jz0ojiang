@@ -54,3 +54,13 @@
     <img src="https://readmestats-0ojixueseno0.vercel.app/api/wakatime?username=@jz0ojiang&langs_count=8&hide=html,css,javascript&bg_color=0D1117&title_color=2C82FF&text_color=FEFFF8&icon_color=fff&count_private=true&hide_border=true" align="center" height="150em" />
 </picture>
 </div>
+
+test:
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=0ojixueseno0&theme=github-dark&custom_title=My%20Activity%20Graph&hide_border=true&bg_color=0D1117)
+
+![](https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&langs_count=8&hide=html,css,javascript&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&count_private=true&hide_border=true)
+
+![](https://readmestats-0ojixueseno0.vercel.app/api?username=0ojixueseno0&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide_border=true)
+
+![](https://readmestats-0ojixueseno0.vercel.app/api/wakatime?username=@jz0ojiang&langs_count=8&hide=html,css,javascript&bg_color=0D1117&title_color=2C82FF&text_color=FEFFF8&icon_color=fff&count_private=true&hide_border=true)
