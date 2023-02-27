@@ -98,7 +98,23 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [OBS 根据直播/录制状态自动切换显示状态](https://blog.im0o.top/posts/7d6e8633.html) - 2023-02-27
 
+  *使用 OBS 的 lua 脚本实现根据直播/录制状态自动切换显示状态*
+
+- [修复升级 Butterfly 主题导致图片懒加载出错](https://blog.im0o.top/posts/77575a6d.html) - 2023-02-27
+
+  *升级 Butterfly 版本后旧版配置读取 fancybox 版本错误*
+
+- [使用 Winhex 进行数据恢复（20）](https://blog.im0o.top/posts/c2cb4ae6.html) - 2023-02-13
+
+- [修复 Vercel/Github Actions 部署 hexo 导致文章的更新时间错误](https://blog.im0o.top/posts/c6d9de72.html) - 2023-02-11
+
+  *在使用 Vercel 或 Github Actions 自动化部署 hexo 博客时会发现所有文章的...*
+
+- [使用 Winhex 进行数据恢复（19）](https://blog.im0o.top/posts/f8637fbc.html) - 2023-02-10
+
+  *知识点总览：1. 实例：使用 Winhex 拼接碎片文件 2. 其他恢复碎片文件的方法*
 <!-- latest_posts ends -->
 
 </td>
