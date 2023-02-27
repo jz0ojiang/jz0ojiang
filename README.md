@@ -98,9 +98,23 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [使用 Winhex 进行数据恢复（20）](https://blog.im0o.top/posts/c2cb4ae6.html) - 2023-02-13
 
-Generating
+- [修复 Vercel/Github Actions 部署 hexo 导致文章的更新时间错误](https://blog.im0o.top/posts/c6d9de72.html) - 2023-02-11
 
+  *在使用 Vercel 或 Github Actions 自动化部署 hexo 博客时会发现所有文章的...*
+
+- [使用 Winhex 进行数据恢复（19）](https://blog.im0o.top/posts/f8637fbc.html) - 2023-02-10
+
+  *知识点总览：1. 实例：使用 Winhex 拼接碎片文件 2. 其他恢复碎片文件的方法*
+
+- [使用 Winhex 进行数据恢复（18）](https://blog.im0o.top/posts/40df18d9.html) - 2023-02-09
+
+  *知识点总览：1. 实例：恢复严重被破坏分区的 Ext3 文件系统 2. 实例：从底层恢复 Ext3 ...*
+
+- [2022年的觅食记录](https://blog.im0o.top/posts/9711783c.html) - 2023-01-29
+
+  *小狗在 2022 吃了点啥~？ 内含多图，建议在Wifi网络下打开哦~*
 <!-- latest_posts ends -->
 
 </td>
