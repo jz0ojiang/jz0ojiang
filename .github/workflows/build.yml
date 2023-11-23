@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
+    - name: Set up Node.js
+      uses: actions/setup-node@v4  # 使用最新版本的 setup-node Action，其中包含 Node.js 16
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
