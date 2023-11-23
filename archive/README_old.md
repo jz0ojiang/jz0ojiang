@@ -1,18 +1,18 @@
 <div align="right" style="height:100px;">
-<h1><img src="https://raw.githubusercontent.com/0ojixueseno0/0ojixueseno0/master/shakinghand.gif" alt="shaking hand" width="70px"/>𝓗𝓮𝓵𝓵𝓸, 𝓘'𝓶 𝓙𝔃𝟎𝓸𝓳𝓲𝓪𝓷𝓰</h1>
+<h1><img src="https://raw.githubusercontent.com/jz0ojiang/jz0ojiang/master/shakinghand.gif" alt="shaking hand" width="70px"/>𝓗𝓮𝓵𝓵𝓸, 𝓘'𝓶 𝓙𝔃𝟎𝓸𝓳𝓲𝓪𝓷𝓰</h1>
 </div>
 
 <div height="210px">
   <table><tr>
     <td width="42%">
     <!-- <div align="left" style="float:left; width:42%; display:inline-block"> -->
-        <img src="https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=0ojixueseno0&langs_count=8&hide=html,css,javascript&layout=compact&bg_color=30,e96443,F57F2B&title_color=fff&text_color=fff&icon_color=fff&count_private=true" />
+        <img src="https://readmestats-jz0ojiang.vercel.app/api/top-langs/?username=jz0ojiang&langs_count=8&hide=html,css,javascript&layout=compact&bg_color=30,e96443,F57F2B&title_color=fff&text_color=fff&icon_color=fff&count_private=true" />
         <br />𝓦𝓱𝓪𝓽 𝓭𝓲𝓭 𝓘 𝓭𝓸 𝓲𝓷 𝓶𝔂 𝓵𝓲𝓯𝓮
     <!-- </div> -->
     </td>
     <td width="58%">
     <!-- <div align="right" style="float:right; width:58%; display:inline-block"> -->
-        <img src="https://readmestats-0ojixueseno0.vercel.app/api?username=0ojixueseno0&hide=contribs&layout=compact&bg_color=30,F57F2B,e96443&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true" />
+        <img src="https://readmestats-jz0ojiang.vercel.app/api?username=jz0ojiang&hide=contribs&layout=compact&bg_color=30,F57F2B,e96443&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true" />
         <br />𝓦𝓱𝓪𝓽 𝓱𝓪𝓿𝓮 𝓘 𝓭𝓸𝓷𝓮 𝓲𝓷 𝓶𝔂 𝓵𝓲𝓯𝓮
     <!-- </div> -->
     </td>
@@ -22,7 +22,7 @@
 
 <div align="center">
     <a href="https://twitter.com/@jz0ojiang"><img src="https://img.shields.io/badge/-@Jz0ojiang-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" /></a>
-    <a href="https://github.com/0ojixueseno0"><img src="https://img.shields.io/badge/-@0ojixueseno0-%23181717?style=flat-square&logo=github" /></a>
+    <a href="https://github.com/jz0ojiang"><img src="https://img.shields.io/badge/-@jz0ojiang-%23181717?style=flat-square&logo=github" /></a>
     <a href="https://t.me/jz0ojiang"><img src="https://img.shields.io/badge/-@jz0ojiang-%23181717?style=flat-square&logo=telegram" /></a>
     <a href="mailto:hi@im0o.top"><img src="https://img.shields.io/badge/EmailTo-hi@im0o.top-%23181717?style=flat-square&logo=mail.ru" /></a>
     <a href="https://im0o.top"><img src="https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=im0o.top&url=https%3A%2F%2Fim0o.top" /></a>
@@ -49,12 +49,12 @@
 
 ## 💡 𝓦𝓪𝓴𝓪𝓣𝓲𝓶𝓮
 
-![](https://readmestats-0ojixueseno0.vercel.app/api/wakatime?username=@jz0ojiang&langs_count=8&hide=html,css,javascript&bg_color=30,F57F2B,e96443&title_color=2C82FF&text_color=FEFFF8&icon_color=fff&count_private=true")
+![](https://readmestats-jz0ojiang.vercel.app/api/wakatime?username=@jz0ojiang&langs_count=8&hide=html,css,javascript&bg_color=30,F57F2B,e96443&title_color=2C82FF&text_color=FEFFF8&icon_color=fff&count_private=true")
 
 
 ## 🚶 𝓥𝓲𝓼𝓲𝓽𝓸𝓻 𝓬𝓸𝓾𝓷𝓽
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=github-com-0ojixueseno0" style="display:inline-block"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=github-com-jz0ojiang" style="display:inline-block"/>
 
 ## 📚 𝓐𝓽𝓵𝓪𝓼𝓽
 <img src="./avatar.jpg" width="100px" />
