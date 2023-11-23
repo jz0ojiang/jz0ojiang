@@ -127,7 +127,7 @@
 <br />
 <div align="center">
     <h2>Views</h2>
-    <img src="https://visitor-badge.deta.dev/badge?page_id=github-com-jz0ojiang" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjz0ojiang&labelColor=%23697689&countColor=%2337d67a" />
 </div>
 
 -----
