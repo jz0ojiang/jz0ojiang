@@ -98,25 +98,25 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [自动化测试：安装环境、IDE（2）](https://blog.im0o.top/posts/9f789fe5.html) - 2023-11-25
+
+  *知识点总览：1. Pycharm 的安装 2. python 环境的安装 3. selenium 的...*
+
+- [Scoop——在 Windows 使用包管理管理软件](https://blog.im0o.top/posts/fed361c8.html) - 2023-11-24
+
+  *网络上已经有很多 Scoop 相关文章，本篇仅对 Scoop 的安装和使用做简单介绍，以便后续文章与...*
+
+- [综合：了解软件测试行业、测试环境](https://blog.im0o.top/posts/90b11903.html) - 2023-11-23
+
+  *简单了解软件测试行业、涉及的技术与技能、测试环境。*
+
+- [自动化测试：Web 自动化测试技术（1）](https://blog.im0o.top/posts/c76d0f56.html) - 2023-11-23
+
+  *知识点概览：1.了解什么是自动化测试*
+
 - [2023年下旬 记](https://blog.im0o.top/posts/390a4191.html) - 2023-10-03
 
   *2023年7-12月经历的各种事情*
-
-- [2023年上旬 记](https://blog.im0o.top/posts/f5a0410f.html) - 2023-04-03
-
-  *2023年1-6月经历的各种事情*
-
-- [在 Github Profile Readme 添加自动更新的最新文章列表](https://blog.im0o.top/posts/f66e8b7f.html) - 2023-03-01
-
-  *配合 hexo-info-api 插件使用 Github Action 自动更新 Github Pr...*
-
-- [OBS 根据直播/录制状态自动切换显示状态](https://blog.im0o.top/posts/7d6e8633.html) - 2023-02-27
-
-  *使用 OBS 的 lua 脚本实现根据直播/录制状态自动切换显示状态*
-
-- [修复升级 Butterfly 主题导致图片懒加载出错](https://blog.im0o.top/posts/77575a6d.html) - 2023-02-27
-
-  *升级 Butterfly 版本后旧版配置读取 fancybox 版本错误*
 <!-- latest_posts ends -->
 
 </td>
