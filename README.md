@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [自动化测试：第一个 Selenium 脚本（3）](https://blog.im0o.top/posts/f75670b5.html) - 2023-11-27
+
+  *本节将在 Python + Selenium + PyCharm 的环境下，编写第一个 Seleni...*
+
 - [自动化测试：安装环境、IDE（2）](https://blog.im0o.top/posts/9f789fe5.html) - 2023-11-25
 
   *知识点总览：1. Pycharm 的安装 2. python 环境的安装 3. selenium 的...*
@@ -110,13 +114,9 @@
 
   *简单了解软件测试行业、涉及的技术与技能、测试环境。*
 
-- [自动化测试：Web 自动化测试技术（1）](https://blog.im0o.top/posts/c76d0f56.html) - 2023-11-23
+- [软件测试专题：全文索引](https://blog.im0o.top/posts/9fd7e7bd.html) - 2023-11-23
 
-  *知识点概览：1.了解什么是自动化测试*
-
-- [2023年下旬 记](https://blog.im0o.top/posts/390a4191.html) - 2023-10-03
-
-  *2023年7-12月经历的各种事情*
+  *本篇为软件测试专题系列文章的索引，以便于更快的查找。*
 <!-- latest_posts ends -->
 
 </td>
