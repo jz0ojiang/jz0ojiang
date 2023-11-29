@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [自动化测试：元素定位方式与 WebElements（4）](https://blog.im0o.top/posts/3d7b6cb.html) - 2023-11-29
+
+  *本节将介绍 Selenium 的元素定位方式与WebElements。*
+
 - [自动化测试：第一个 Selenium 脚本（3）](https://blog.im0o.top/posts/f75670b5.html) - 2023-11-27
 
   *本节将在 Python + Selenium + PyCharm 的环境下，编写第一个 Seleni...*
@@ -113,10 +117,6 @@
 - [综合：了解软件测试行业、测试环境](https://blog.im0o.top/posts/90b11903.html) - 2023-11-23
 
   *简单了解软件测试行业、涉及的技术与技能、测试环境。*
-
-- [软件测试专题：全文索引](https://blog.im0o.top/posts/9fd7e7bd.html) - 2023-11-23
-
-  *本篇为软件测试专题系列文章的索引，以便于更快的查找。*
 <!-- latest_posts ends -->
 
 </td>
