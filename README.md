@@ -98,6 +98,14 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [自动化测试：模拟用户输入（5）](https://blog.im0o.top/posts/e84b163e.html) - 2023-12-02
+
+  *本节将介绍如何使用 Selenium 模拟用户输入。*
+
+- [自动化测试：配套网页](https://blog.im0o.top/posts/2c261456.html) - 2023-12-01
+
+  *本篇将介绍配套网页，你可以通过访问配套网页来查看实例演示。*
+
 - [自动化测试：元素定位方式与 WebElements（4）](https://blog.im0o.top/posts/3d7b6cb.html) - 2023-11-29
 
   *本节将介绍 Selenium 的元素定位方式与WebElements。*
@@ -109,14 +117,6 @@
 - [自动化测试：安装环境、IDE（2）](https://blog.im0o.top/posts/9f789fe5.html) - 2023-11-25
 
   *知识点总览：1. Pycharm 的安装 2. python 环境的安装 3. selenium 的...*
-
-- [Scoop——在 Windows 使用包管理管理软件](https://blog.im0o.top/posts/fed361c8.html) - 2023-11-24
-
-  *网络上已经有很多 Scoop 相关文章，本篇仅对 Scoop 的安装和使用做简单介绍，以便后续文章与...*
-
-- [综合：了解软件测试行业、测试环境](https://blog.im0o.top/posts/90b11903.html) - 2023-11-23
-
-  *简单了解软件测试行业、涉及的技术与技能、测试环境。*
 <!-- latest_posts ends -->
 
 </td>
