@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [自动化测试：webdriver 的进阶使用（6）](https://blog.im0o.top/posts/827d965d.html) - 2023-12-03
+
+  *本节将介绍如何使用 Selenium 切换浏览器窗口、设置等待时间以及执行 JavaScript 代...*
+
 - [自动化测试：模拟用户输入（5）](https://blog.im0o.top/posts/e84b163e.html) - 2023-12-02
 
   *本节将介绍如何使用 Selenium 模拟用户输入。*
@@ -113,10 +117,6 @@
 - [自动化测试：第一个 Selenium 脚本（3）](https://blog.im0o.top/posts/f75670b5.html) - 2023-11-27
 
   *本节将在 Python + Selenium + PyCharm 的环境下，编写第一个 Seleni...*
-
-- [自动化测试：安装环境、IDE（2）](https://blog.im0o.top/posts/9f789fe5.html) - 2023-11-25
-
-  *知识点总览：1. Pycharm 的安装 2. python 环境的安装 3. selenium 的...*
 <!-- latest_posts ends -->
 
 </td>
