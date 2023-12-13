@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [自动化测试：表单操作（7）](https://blog.im0o.top/posts/9d9bef84.html) - 2023-12-13
+
+  *在自动化测试中，对于表单的操作是至关重要的。本文将介绍一些常见的表单操作技术。*
+
 - [自动化测试：webdriver 的进阶使用（6）](https://blog.im0o.top/posts/827d965d.html) - 2023-12-03
 
   *本节将介绍如何使用 Selenium 切换浏览器窗口、设置等待时间以及执行 JavaScript 代...*
@@ -113,10 +117,6 @@
 - [自动化测试：元素定位方式与 WebElements（4）](https://blog.im0o.top/posts/3d7b6cb.html) - 2023-11-29
 
   *本节将介绍 Selenium 的元素定位方式与WebElements。*
-
-- [自动化测试：第一个 Selenium 脚本（3）](https://blog.im0o.top/posts/f75670b5.html) - 2023-11-27
-
-  *本节将在 Python + Selenium + PyCharm 的环境下，编写第一个 Seleni...*
 <!-- latest_posts ends -->
 
 </td>
