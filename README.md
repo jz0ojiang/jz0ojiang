@@ -98,6 +98,18 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [自动化测试：参数化测试（10）](https://blog.im0o.top/posts/5360232b.html) - 2023-12-16
+
+  *本节将介绍如何使用 ddt 模块进行参数化测试。*
+
+- [自动化测试：结合 unittest 进行测试（9）](https://blog.im0o.top/posts/8b4fa0e9.html) - 2023-12-15
+
+  *本节将介绍如何结合 unittest 进行自动化测试，以及使用 Page Object 设计模式提高...*
+
+- [自动化测试：页面进阶操作（8）](https://blog.im0o.top/posts/8158866f.html) - 2023-12-14
+
+  *本节将介绍如何使用 Selenium 进行页面截图、处理 JavaScript 弹窗。*
+
 - [自动化测试：表单操作（7）](https://blog.im0o.top/posts/9d9bef84.html) - 2023-12-13
 
   *在自动化测试中，对于表单的操作是至关重要的。本文将介绍一些常见的表单操作技术。*
@@ -105,18 +117,6 @@
 - [自动化测试：webdriver 的进阶使用（6）](https://blog.im0o.top/posts/827d965d.html) - 2023-12-03
 
   *本节将介绍如何使用 Selenium 切换浏览器窗口、设置等待时间以及执行 JavaScript 代...*
-
-- [自动化测试：模拟用户输入（5）](https://blog.im0o.top/posts/e84b163e.html) - 2023-12-02
-
-  *本节将介绍如何使用 Selenium 模拟用户输入。*
-
-- [自动化测试：配套网页](https://blog.im0o.top/posts/2c261456.html) - 2023-12-01
-
-  *本篇将介绍配套网页，你可以通过访问配套网页来查看实例演示。*
-
-- [自动化测试：元素定位方式与 WebElements（4）](https://blog.im0o.top/posts/3d7b6cb.html) - 2023-11-29
-
-  *本节将介绍 Selenium 的元素定位方式与WebElements。*
 <!-- latest_posts ends -->
 
 </td>
