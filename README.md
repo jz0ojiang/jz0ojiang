@@ -40,24 +40,24 @@
 </a>
 <a href="#">
 <picture>
-    <source srcset="https://readmestats-jz0ojiang.vercel.app/api/top-langs/?username=jz0ojiang&langs_count=8&hide=html%2Ccss%2Cjavascript&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&count_private=true&hide_border=true&theme=github-dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://readmestats-jz0ojiang.vercel.app/api/top-langs/?username=jz0ojiang&langs_count=8&hide=html%2Ccss%2Cjavascript&layout=compact&count_private=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    <source srcset="https://readmestats-jz0ojiang.vercel.app/api/top-langs/?username=jz0ojiang&langs_count=8&hide=html%2Ccss%2Cjavascript&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&count_private=true&hide_border=true&theme=github-dark&PAT_1" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://readmestats-jz0ojiang.vercel.app/api/top-langs/?username=jz0ojiang&langs_count=8&hide=html%2Ccss%2Cjavascript&layout=compact&count_private=true&hide_border=true&PAT_1" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" height="150em" src="https://readmestats-jz0ojiang.vercel.app/api/top-langs/?username=jz0ojiang&langs_count=8&hide=html%2Ccss%2Cjavascript&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&count_private=true&hide_border=true&theme=github-dark" />
+    <img align="center" height="150em" src="https://readmestats-jz0ojiang.vercel.app/api/top-langs/?username=jz0ojiang&langs_count=8&hide=html%2Ccss%2Cjavascript&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&count_private=true&hide_border=true&theme=github-dark&PAT_1" />
 </picture>
 </a>
 <br />
 <a href="#">
 <picture>
     <source 
-    srcset="https://readmestats-jz0ojiang.vercel.app/api?username=jz0ojiang&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide_border=true&theme=github-dark"
+    srcset="https://readmestats-jz0ojiang.vercel.app/api?username=jz0ojiang&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide_border=true&theme=github-dark&PAT_1"
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://readmestats-jz0ojiang.vercel.app/api?username=jz0ojiang&layout=compact&show_icons=true&count_private=true&hide_border=true"
+    srcset="https://readmestats-jz0ojiang.vercel.app/api?username=jz0ojiang&layout=compact&show_icons=true&count_private=true&hide_border=true&PAT_1"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://readmestats-jz0ojiang.vercel.app/api?username=jz0ojiang&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide_border=true&theme=github-dark" align="center" height="150em" />
+    <img src="https://readmestats-jz0ojiang.vercel.app/api?username=jz0ojiang&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide_border=true&theme=github-dark&PAT_1" align="center" height="150em" />
 </picture>
 </a>
 <a href="#">
