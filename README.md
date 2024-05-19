@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [Minecraft JE: 原版实现物品阻止丢弃](https://blog.im0o.top/posts/17c5464c.html) - 2024-05-19
+
+  *利用物品 nbt 实现物品阻止丢弃*
+
 - [自动化测试：参数化测试（10）](https://blog.im0o.top/posts/5360232b.html) - 2023-12-16
 
   *本节将介绍如何使用 ddt 模块进行参数化测试。*
@@ -113,10 +117,6 @@
 - [自动化测试：表单操作（7）](https://blog.im0o.top/posts/9d9bef84.html) - 2023-12-13
 
   *在自动化测试中，对于表单的操作是至关重要的。本文将介绍一些常见的表单操作技术。*
-
-- [自动化测试：webdriver 的进阶使用（6）](https://blog.im0o.top/posts/827d965d.html) - 2023-12-03
-
-  *本节将介绍如何使用 Selenium 切换浏览器窗口、设置等待时间以及执行 JavaScript 代...*
 <!-- latest_posts ends -->
 
 </td>
