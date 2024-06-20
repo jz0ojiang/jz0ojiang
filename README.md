@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [Minecraft JE: 1.13+ 实现检测实体视线](https://blog.im0o.top/posts/4dbbf746.html) - 2024-06-20
+
+  *运用 execute 实现检测目标是否在实体视线范围内*
+
 - [Minecraft JE: 原版实现物品阻止丢弃](https://blog.im0o.top/posts/17c5464c.html) - 2024-05-19
 
   *利用物品 nbt 实现物品阻止丢弃*
@@ -113,10 +117,6 @@
 - [自动化测试：页面进阶操作（8）](https://blog.im0o.top/posts/8158866f.html) - 2023-12-14
 
   *本节将介绍如何使用 Selenium 进行页面截图、处理 JavaScript 弹窗。*
-
-- [自动化测试：表单操作（7）](https://blog.im0o.top/posts/9d9bef84.html) - 2023-12-13
-
-  *在自动化测试中，对于表单的操作是至关重要的。本文将介绍一些常见的表单操作技术。*
 <!-- latest_posts ends -->
 
 </td>
