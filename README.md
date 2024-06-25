@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [Minecraft JE: 原版实现记分板随机数生成](https://blog.im0o.top/posts/3a896c59.html) - 2024-06-25
+
+  *通过提取实体的 UUID 实现记分板随机数生成*
+
 - [Minecraft JE: 1.13+ 实现检测实体视线](https://blog.im0o.top/posts/4dbbf746.html) - 2024-06-20
 
   *运用 execute 实现检测目标是否在实体视线范围内*
@@ -113,10 +117,6 @@
 - [自动化测试：结合 unittest 进行测试（9）](https://blog.im0o.top/posts/8b4fa0e9.html) - 2023-12-15
 
   *本节将介绍如何结合 unittest 进行自动化测试，以及使用 Page Object 设计模式提高...*
-
-- [自动化测试：页面进阶操作（8）](https://blog.im0o.top/posts/8158866f.html) - 2023-12-14
-
-  *本节将介绍如何使用 Selenium 进行页面截图、处理 JavaScript 弹窗。*
 <!-- latest_posts ends -->
 
 </td>
