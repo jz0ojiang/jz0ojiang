@@ -17,7 +17,7 @@
     <h2>Contact Me</h2>
     <a href="https://github.com/jz0ojiang"><img src="https://img.shields.io/badge/-@jz0ojiang-%23181717?style=flat-square&logo=github" /></a>
     <a href="https://t.me/jz0ojiang"><img src="https://img.shields.io/badge/-@jz0ojiang-%23181717?style=flat-square&logo=telegram" /></a>
-    <a href="https://twitter.com/@jz0ojiang"><img src="https://img.shields.io/badge/-@Jz0ojiang-%23181717?style=flat-square&logo=twitter" /></a>
+    <a href="https://x.com/@jz0ojiang"><img src="https://img.shields.io/badge/-@Jz0ojiang-%23181717?style=flat-square&logo=x" /></a>
     <a href="mailto:hi@im0o.top"><img src="https://img.shields.io/badge/hi@im0o.top-%23181717?style=flat-square&logo=mail.ru" /></a>
     <a href="https://im0o.top"><img src="https://img.shields.io/website?color=181717&label=Site&style=flat-square&up_message=im0o.top&url=https%3A%2F%2Fim0o.top" /></a>
 </div>
