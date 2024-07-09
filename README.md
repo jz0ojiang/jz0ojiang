@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [vite proxy 配置](https://blog.im0o.top/posts/d7927a41.html) - 2024-07-06
+
+  *简单记录一下通过设置 vite proxy 解决前端开发过程中请求跨域问题*
+
 - [Minecraft JE: 原版实现记分板随机数生成](https://blog.im0o.top/posts/3a896c59.html) - 2024-06-25
 
   *通过提取实体的 UUID 实现记分板随机数生成*
@@ -113,10 +117,6 @@
 - [自动化测试：参数化测试（10）](https://blog.im0o.top/posts/5360232b.html) - 2023-12-16
 
   *本节将介绍如何使用 ddt 模块进行参数化测试。*
-
-- [自动化测试：结合 unittest 进行测试（9）](https://blog.im0o.top/posts/8b4fa0e9.html) - 2023-12-15
-
-  *本节将介绍如何结合 unittest 进行自动化测试，以及使用 Page Object 设计模式提高...*
 <!-- latest_posts ends -->
 
 </td>
