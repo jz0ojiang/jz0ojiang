@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [使用 Vue + tsx 实现图片渐进式加载](https://blog.im0o.top/posts/116723d.html) - 2024-07-17
+
+  *使用 tsx 绕过 Cloudflare hotlink protection 并实现随机图片的渐进...*
+
 - [vite proxy 配置](https://blog.im0o.top/posts/d7927a41.html) - 2024-07-06
 
   *简单记录一下通过设置 vite proxy 解决前端开发过程中请求跨域问题*
@@ -113,10 +117,6 @@
 - [Minecraft JE: 原版实现物品阻止丢弃](https://blog.im0o.top/posts/17c5464c.html) - 2024-05-19
 
   *利用物品 nbt 实现物品阻止丢弃*
-
-- [自动化测试：参数化测试（10）](https://blog.im0o.top/posts/5360232b.html) - 2023-12-16
-
-  *本节将介绍如何使用 ddt 模块进行参数化测试。*
 <!-- latest_posts ends -->
 
 </td>
