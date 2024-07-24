@@ -98,6 +98,8 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [test hide_cn](https://blog.im0o.top/posts/408f1f90.html) - 2024-07-24
+
 - [使用 Vue + tsx 实现图片渐进式加载](https://blog.im0o.top/posts/116723d.html) - 2024-07-17
 
   *使用 tsx 绕过 Cloudflare hotlink protection 并实现随机图片的渐进...*
@@ -113,10 +115,6 @@
 - [Minecraft JE: 1.13+ 实现检测实体视线](https://blog.im0o.top/posts/4dbbf746.html) - 2024-06-20
 
   *运用 execute 实现检测目标是否在实体视线范围内*
-
-- [Minecraft JE: 原版实现物品阻止丢弃](https://blog.im0o.top/posts/17c5464c.html) - 2024-05-19
-
-  *利用物品 nbt 实现物品阻止丢弃*
 <!-- latest_posts ends -->
 
 </td>
