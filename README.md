@@ -98,7 +98,9 @@
 <td align="left">
 
 <!-- latest_posts starts -->
-- [test hide_cn](https://blog.im0o.top/posts/408f1f90.html) - 2024-07-24
+- [CSS: 更有质感的描边效果](https://blog.im0o.top/posts/81403f58.html) - 2024-07-30
+
+  *用 CSS 伪类实现更有质感的描边效果*
 
 - [使用 Vue + tsx 实现图片渐进式加载](https://blog.im0o.top/posts/116723d.html) - 2024-07-17
 
