@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [搭建 Teamspeak 服务器与 TS3AudioBot 音乐机器人](https://blog.im0o.top/posts/fa5276ef.html) - 2024-08-27
+
+  *简单记录一下 Teamspeak 服务器与 TS3AudioBot 音乐机器人的部署过程*
+
 - [CSS: 更有质感的描边效果](https://blog.im0o.top/posts/81403f58.html) - 2024-07-30
 
   *用 CSS 伪类实现更有质感的描边效果*
@@ -113,10 +117,6 @@
 - [Minecraft JE: 原版实现记分板随机数生成](https://blog.im0o.top/posts/3a896c59.html) - 2024-06-25
 
   *通过提取实体的 UUID 实现记分板随机数生成*
-
-- [Minecraft JE: 1.13+ 实现检测实体视线](https://blog.im0o.top/posts/4dbbf746.html) - 2024-06-20
-
-  *运用 execute 实现检测目标是否在实体视线范围内*
 <!-- latest_posts ends -->
 
 </td>
