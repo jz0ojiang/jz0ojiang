@@ -98,25 +98,25 @@
 <td align="left">
 
 <!-- latest_posts starts -->
-- [搭建 Teamspeak 服务器与 TS3AudioBot 音乐机器人](https://blog.im0o.top/posts/fa5276ef.html) - 2024-08-27
+- [前端项目优化：使用异步组件提升首屏加载速度（4）](https://blog.im0o.top/posts/6317b38a.html) - 2025-01-12
 
-  *简单记录一下 Teamspeak 服务器与 TS3AudioBot 音乐机器人的部署过程*
+  *使用异步组件提升首屏加载速度*
 
-- [CSS: 更有质感的描边效果](https://blog.im0o.top/posts/81403f58.html) - 2024-07-30
+- [解决安卓 ChatGPT 无法登录问题](https://blog.im0o.top/posts/f1278568.html) - 2024-12-19
 
-  *用 CSS 伪类实现更有质感的描边效果*
+  *Play Store 版本过低或设备 Root 导致无法登录*
 
-- [使用 Vue + tsx 实现图片渐进式加载](https://blog.im0o.top/posts/116723d.html) - 2024-07-17
+- [前端项目优化：图片懒加载（3）](https://blog.im0o.top/posts/bf087cd4.html) - 2024-12-19
 
-  *使用 tsx 绕过 Cloudflare hotlink protection 并实现随机图片的渐进...*
+  *使用 vue3-lazyload 实现图片懒加载*
 
-- [vite proxy 配置](https://blog.im0o.top/posts/d7927a41.html) - 2024-07-06
+- [前端项目优化：Gzip 压缩（2）](https://blog.im0o.top/posts/a967f839.html) - 2024-12-19
 
-  *简单记录一下通过设置 vite proxy 解决前端开发过程中请求跨域问题*
+  *通过 Gzip 压缩优化前端项目加载速度。*
 
-- [Minecraft JE: 原版实现记分板随机数生成](https://blog.im0o.top/posts/3a896c59.html) - 2024-06-25
+- [前端项目优化：字符子集化（1）](https://blog.im0o.top/posts/e1035436.html) - 2024-12-19
 
-  *通过提取实体的 UUID 实现记分板随机数生成*
+  *通过字符子集化优化前端项目的字体加载速度与项目大小，帮助显著减少字体资源大小并提升页面加载性能*
 <!-- latest_posts ends -->
 
 </td>
