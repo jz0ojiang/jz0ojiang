@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: Set up Node.js
       uses: actions/setup-node@v4  # 使用最新版本的 setup-node Action，其中包含 Node.js 16
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: "3.10"
-    - uses: actions/cache@v2
+    - uses: actions/cache@v4
       name: Configure pip caching
       with:
         path: ~/.cache/pip
