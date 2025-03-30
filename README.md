@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [不是作弊，是协作 —— Copilot 如何帮我还原 UI 页面结构](https://blog.im0o.top/posts/978a3f43.html) - 2025-03-30
+
+  *Copilot 不替我写代码，它只是我愿意信任的打草稿助手。 我更在乎的是：最终页面能不能真正跑起来...*
+
 - [前端项目优化：使用异步组件提升首屏加载速度（4）](https://blog.im0o.top/posts/6317b38a.html) - 2025-01-12
 
   *使用异步组件提升首屏加载速度*
@@ -113,10 +117,6 @@
 - [前端项目优化：Gzip 压缩（2）](https://blog.im0o.top/posts/a967f839.html) - 2024-12-19
 
   *通过 Gzip 压缩优化前端项目加载速度。*
-
-- [前端项目优化：字符子集化（1）](https://blog.im0o.top/posts/e1035436.html) - 2024-12-19
-
-  *通过字符子集化优化前端项目的字体加载速度与项目大小，帮助显著减少字体资源大小并提升页面加载性能*
 <!-- latest_posts ends -->
 
 </td>
