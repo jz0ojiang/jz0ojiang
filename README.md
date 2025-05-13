@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [FolioKit - 不仅是作品集，更是 AI 驱动的个人展示平台](https://blog.im0o.top/posts/aec1261f.html) - 2025-05-13
+
+  *基于 Flask 和 LlamaIndex 构建的 AI 驱动的个人展示平台*
+
 - [不是作弊，是协作 —— Copilot 如何帮我还原 UI 页面结构](https://blog.im0o.top/posts/978a3f43.html) - 2025-03-30
 
   *Copilot 不替我写代码，它只是我愿意信任的打草稿助手。 我更在乎的是：最终页面能不能真正跑起来...*
@@ -113,10 +117,6 @@
 - [前端项目优化：图片懒加载（3）](https://blog.im0o.top/posts/bf087cd4.html) - 2024-12-19
 
   *使用 vue3-lazyload 实现图片懒加载*
-
-- [前端项目优化：Gzip 压缩（2）](https://blog.im0o.top/posts/a967f839.html) - 2024-12-19
-
-  *通过 Gzip 压缩优化前端项目加载速度。*
 <!-- latest_posts ends -->
 
 </td>
