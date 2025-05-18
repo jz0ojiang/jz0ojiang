@@ -98,6 +98,10 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [Nuxt3 中 useI18n 报错分析与 setup 限制背后的真相](https://blog.im0o.top/posts/6a5709d6.html) - 2025-05-17
+
+  *Nuxt3 多语言懒加载踩坑记录*
+
 - [FolioKit - 不仅是作品集，更是 AI 驱动的个人展示平台](https://blog.im0o.top/posts/aec1261f.html) - 2025-05-13
 
   *基于 Flask 和 LlamaIndex 构建的 AI 驱动的个人展示平台*
@@ -113,10 +117,6 @@
 - [解决安卓 ChatGPT 无法登录问题](https://blog.im0o.top/posts/f1278568.html) - 2024-12-19
 
   *Play Store 版本过低或设备 Root 导致无法登录*
-
-- [前端项目优化：图片懒加载（3）](https://blog.im0o.top/posts/bf087cd4.html) - 2024-12-19
-
-  *使用 vue3-lazyload 实现图片懒加载*
 <!-- latest_posts ends -->
 
 </td>
