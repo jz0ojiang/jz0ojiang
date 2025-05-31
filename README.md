@@ -98,6 +98,18 @@
 <td align="left">
 
 <!-- latest_posts starts -->
+- [借助 GitHub Actions + 语义化提交，实现自动版本发布](https://blog.im0o.top/posts/31eaaef6.html) - 2025-05-31
+
+  *通过 commit message 自动发布版本、打 Tag 和生成 Release。*
+
+- [如何用 GitHub Actions + 动态密码 实现全自动安全部署](https://blog.im0o.top/posts/f8428368.html) - 2025-05-31
+
+  *用一行命令动态生成密码，在 CI 中安全部署构建产物。*
+
+- [用时间戳和 HMAC 实现一次性密码：构建安全、无明文的部署认证机制](https://blog.im0o.top/posts/29f324f.html) - 2025-05-31
+
+  *本文介绍一种基于 HMAC 和时间戳的一次性密码方案，用于提升自动化部署的安全性。*
+
 - [Nuxt3 中 useI18n 报错分析与 setup 限制背后的真相](https://blog.im0o.top/posts/6a5709d6.html) - 2025-05-17
 
   *Nuxt3 多语言懒加载踩坑记录*
@@ -105,18 +117,6 @@
 - [FolioKit - 不仅是作品集，更是 AI 驱动的个人展示平台](https://blog.im0o.top/posts/aec1261f.html) - 2025-05-13
 
   *基于 Flask 和 LlamaIndex 构建的 AI 驱动的个人展示平台*
-
-- [不是作弊，是协作 —— Copilot 如何帮我还原 UI 页面结构](https://blog.im0o.top/posts/978a3f43.html) - 2025-03-30
-
-  *Copilot 不替我写代码，它只是我愿意信任的打草稿助手。 我更在乎的是：最终页面能不能真正跑起来...*
-
-- [前端项目优化：使用异步组件提升首屏加载速度（4）](https://blog.im0o.top/posts/6317b38a.html) - 2025-01-12
-
-  *使用异步组件提升首屏加载速度*
-
-- [解决安卓 ChatGPT 无法登录问题](https://blog.im0o.top/posts/f1278568.html) - 2024-12-19
-
-  *Play Store 版本过低或设备 Root 导致无法登录*
 <!-- latest_posts ends -->
 
 </td>
