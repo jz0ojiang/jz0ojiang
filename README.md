@@ -63,14 +63,14 @@
 <a href="#">
 <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Jz0ojiang&langs_count=8&bg_color=0D1117&title_color=2C82FF&text_color=FEFFF8&icon_color=fff&count_private=true&hide_border=true&theme=github-dark"
+    srcset="https://readmestats-jz0ojiang.vercel.app/api/wakatime?username=Jz0ojiang&langs_count=8&bg_color=0D1117&title_color=2C82FF&text_color=FEFFF8&icon_color=fff&count_private=true&hide_border=true&theme=github-dark"
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Jz0ojiang&langs_count=8&count_private=true&hide_border=true"
+    srcset="https://readmestats-jz0ojiang.vercel.app/api/wakatime?username=Jz0ojiang&langs_count=8&count_private=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jz0ojiang&langs_count=8&bg_color=0D1117&title_color=2C82FF&text_color=FEFFF8&icon_color=fff&count_private=true&hide_border=true&theme=github-dark" />
+    <img align="center" height="150em" src="https://readmestats-jz0ojiang.vercel.app/api/wakatime?username=Jz0ojiang&langs_count=8&bg_color=0D1117&title_color=2C82FF&text_color=FEFFF8&icon_color=fff&count_private=true&hide_border=true&theme=github-dark" />
 </picture>
 </a>
 </div>
