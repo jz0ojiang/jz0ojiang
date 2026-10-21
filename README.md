@@ -98,25 +98,25 @@
 <td align="left">
 
 <!-- latest_posts starts -->
-- [Scoop 安装 Volta 后手动设置 VOLTA\_HOME，pnpm/yarn 会无限递归](https://blog.im0o.top/posts/bb5423a6) - 2026-03-31
+- [Spock 的群聊调度与回应设计](https://blog.im0o.top/posts/89cb52cd) - 2026-10-22
 
-  *两套 shim 路径对不上，Volta 的递归保护清错了目录，每次 volta run 都会重新命中...*
+  *群聊 Agent 如何判断何时参与、何时沉默，以及表情包、唤醒理由和动作日志的设计。*
 
-- [用 commit message 触发 GitHub Actions 自动发版](https://blog.im0o.top/posts/31eaaef6) - 2025-06-01
+- [think-twice：让 Agent 写出读者能理解的说明](https://blog.im0o.top/posts/87bda1f7) - 2026-10-22
 
-  *commit message 里带 \[release/vX.Y.Z\] 就打 tag、创建 Relea...*
+  *从运行时提示词缺少上下文的问题出发，整理让说明能够独立阅读的 think-twice Skill。*
 
-- [用 GitHub Actions + 动态密码部署构建产物](https://blog.im0o.top/posts/f8428368) - 2025-06-01
+- [用 CSS 实现 3D 设备动效](https://blog.im0o.top/posts/ad657fb9) - 2026-10-22
 
-  *Secrets 里只存放生成密码的命令，CI 里即时计算，上传完成后删除，日志里的 IP 也一并替换...*
+  *用平面组合 CSS 3D 设备，以滚动进度控制动效，并为旧浏览器提供独立的 2D 展示。*
 
-- [用时间戳 + HMAC 给 rsync 生成一次性密码](https://blog.im0o.top/posts/29f324f) - 2025-06-01
+- [一次业务前端重构：让代码结构对应实际的修改](https://blog.im0o.top/posts/ed748f2f) - 2026-10-22
 
-  *客户端和服务端各自按时间窗口计算出同一个 HMAC 值作为密码，部署脚本里不再需要存放明文*
+  *一次 Vue 业务前端重构，围绕表单、业务组件和路由布局重新划分职责。*
 
-- [Nuxt3 工具函数里调用 useI18n 报错的排查](https://blog.im0o.top/posts/6a5709d6) - 2025-05-18
+- [LeapAll 官网设计：从任务场景到交互细节](https://blog.im0o.top/posts/81236728) - 2026-10-22
 
-  *报错指向 useHead，实际是 useI18n 丢了组件上下文；懒加载语言包时还要等加载完成再设置...*
+  *LeapAll 官网的首屏覆盖、场景演示、播放时间轴和面向普通用户的文案设计。*
 <!-- latest_posts ends -->
 
 </td>
