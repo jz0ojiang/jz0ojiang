@@ -98,25 +98,25 @@
 <td align="left">
 
 <!-- latest_posts starts -->
-- [借助 GitHub Actions + 语义化提交，实现自动版本发布](https://blog.im0o.top/posts/31eaaef6.html) - 2025-05-31
+- [Scoop 安装 Volta 后手动设置 VOLTA\_HOME，pnpm/yarn 会无限递归](https://blog.im0o.top/posts/bb5423a6) - 2026-03-31
 
-  *通过 commit message 自动发布版本、打 Tag 和生成 Release。*
+  *两套 shim 路径对不上，Volta 的递归保护清错了目录，每次 volta run 都会重新命中...*
 
-- [如何用 GitHub Actions + 动态密码 实现全自动安全部署](https://blog.im0o.top/posts/f8428368.html) - 2025-05-31
+- [用 commit message 触发 GitHub Actions 自动发版](https://blog.im0o.top/posts/31eaaef6) - 2025-06-01
 
-  *用一行命令动态生成密码，在 CI 中安全部署构建产物。*
+  *commit message 里带 \[release/vX.Y.Z\] 就打 tag、创建 Relea...*
 
-- [用时间戳和 HMAC 实现一次性密码：构建安全、无明文的部署认证机制](https://blog.im0o.top/posts/29f324f.html) - 2025-05-31
+- [用 GitHub Actions + 动态密码部署构建产物](https://blog.im0o.top/posts/f8428368) - 2025-06-01
 
-  *本文介绍一种基于 HMAC 和时间戳的一次性密码方案，用于提升自动化部署的安全性。*
+  *Secrets 里只存放生成密码的命令，CI 里即时计算，上传完成后删除，日志里的 IP 也一并替换...*
 
-- [Nuxt3 中 useI18n 报错分析与 setup 限制背后的真相](https://blog.im0o.top/posts/6a5709d6.html) - 2025-05-17
+- [用时间戳 + HMAC 给 rsync 生成一次性密码](https://blog.im0o.top/posts/29f324f) - 2025-06-01
 
-  *Nuxt3 多语言懒加载踩坑记录*
+  *客户端和服务端各自按时间窗口计算出同一个 HMAC 值作为密码，部署脚本里不再需要存放明文*
 
-- [FolioKit - 不仅是作品集，更是 AI 驱动的个人展示平台](https://blog.im0o.top/posts/aec1261f.html) - 2025-05-13
+- [Nuxt3 工具函数里调用 useI18n 报错的排查](https://blog.im0o.top/posts/6a5709d6) - 2025-05-18
 
-  *基于 Flask 和 LlamaIndex 构建的 AI 驱动的个人展示平台*
+  *报错指向 useHead，实际是 useI18n 丢了组件上下文；懒加载语言包时还要等加载完成再设置...*
 <!-- latest_posts ends -->
 
 </td>
